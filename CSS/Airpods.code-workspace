@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../classcamp"
+		},
+		{
+			"path": "../../food-store"
+		},
+		{
+			"path": "../../hover"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Airpods"
+	}
+}
